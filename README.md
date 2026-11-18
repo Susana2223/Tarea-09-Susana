@@ -13,7 +13,7 @@ Cuenta con una tabla donde se visualizan los datos de cada mascota y opciones pa
 - Paginación para organizar la lista de mascotas.
 - Formulario para registrar nuevas mascotas.
 
-** Tecnologías utilizadas **
+**Tecnologías utilizadas**
 
 - HTML5
 - [Bootstrap 6](https://getbootstrap.com/)
